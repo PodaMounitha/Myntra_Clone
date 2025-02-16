@@ -1,0 +1,209 @@
+*
+{
+    text-decoration: none;
+    text-transform: uppercase;
+    font-size: 14px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+header
+{
+    background-color:white;
+    width: 2000px;
+    height: 80px;
+    display: flex;
+    margin-top: 25px;
+    font-size: xx-large;
+    
+}
+#logo_picture
+{
+    width: 80px;
+    height: 80px;
+    padding-left: 0px;
+    background-color: white;
+}
+#logo
+{
+    width: 100px;
+    height: 80px;
+    background-color: white;
+    margin-left: 50px;
+
+}
+.nav_bar
+{
+    width: 1400px;
+    height: 80px;
+    display: flex;
+    justify-content: space-around;
+    padding-top: 20px;
+    padding-left: 50px;
+    font-size: large;
+    color: #282c3f;
+    font-size:xx-large;
+    font-weight: 700;
+    text-align: center;
+    background-color: white;
+  
+}
+
+.special
+{
+   padding-top: 8px;
+   background-color: white;
+}
+#span1
+{
+    color: #ff3f6c;
+    font-weight: 500;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+#search_bar
+{
+    background-color: whitesmoke;
+    padding-top: 0px;
+    margin-left: 100px;
+    margin-top: 20px;
+    border: 10px;
+    height: 35px;
+    width: 1000px;
+    padding-left: 0px;
+    
+    
+
+   
+}
+#search
+{
+    background-color: whitesmoke;
+    width: 400px;
+    height: 30px;
+    padding-left: 30px;
+    padding-bottom: 20px;
+    padding-top: 15px;
+    border: 0px solid whitesmoke;
+    
+
+    
+}
+#actions
+{
+    background-color: white;
+    width:300px;
+    height: 80px;
+    padding-top: 20px;
+    padding-left: 20px;
+    display: flex;
+    margin-left: 400px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+} 
+.span
+{
+    padding-bottom: 20px;
+}
+.action_class a
+{
+    color:black;
+    width:250px;
+    height: 80px;
+    justify-content:space-evenly;
+     margin-right: 51px; 
+     padding-left: 17px; 
+}
+#banners
+{
+    width: 100%;
+    height: 2500px;
+    background-color: white;
+    margin: 50px;
+}
+#small_1
+{
+    border: 2px solid;
+    height: 100px;
+    width: 95.5%;
+}
+#banner
+{
+    padding-top: 15px;
+    width: 94.5%;
+    padding-left: 20px;
+    height: 500px;
+    border: 2px solid;
+}
+#small_2
+{
+    margin-top: 15px;
+    width: 95.5%;
+    height: 200px;
+   border: 2px  solid;  
+}
+#deal
+{
+    margin-top: 3%;
+    padding-top: 15px;
+    width: 94.5%;
+    padding-left: 20px;
+    height: 500px;
+    border: 2px solid;
+}
+#category
+{
+    margin-top: 3%;
+    padding-top: 15px;
+    width: 94.5%;
+    padding-left: 20px;
+    height: 500px;
+    border: 2px solid;
+}
+#category2
+{
+    margin-top: 3%;
+padding-top: 15px;
+width: 94.5%;
+padding-left: 20px;
+height: 500px;
+border: 2px solid;
+}
+#marketing
+{
+    margin-left: 25px;
+    width: 100%;
+    height: 250px;
+    margin-top: 5%;
+
+}
+#download
+{
+    
+    margin-left: 20px;
+   width: 94.5%;
+   padding-left: 20px;
+   height: 200px; 
+   border: 2px solid; 
+}
+#contact
+{
+    width: 100%;
+    height: 400px;
+}
+#contact1
+{
+    border: 2px solid; 
+    width: 98%;
+    height: 800px;
+    margin-left: 2%;
+}
+#contact2
+{
+    border: 2px solid; 
+    width: 98%;
+    height: 800px;
+    margin-left: 2%;
+}
+#offer
+{
+    position: fixed;
+    top: 55%;
+    right: 0px;
+}
