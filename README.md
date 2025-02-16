@@ -30,8 +30,7 @@ This project is a simple **e-commerce website clone** that includes a navigation
 
 
 
- 📸 Preview
-![Website Preview](images/preview.png)
+
 
 
 
